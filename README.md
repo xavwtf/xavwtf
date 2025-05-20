@@ -33,17 +33,4 @@ I was originally going to name this machine "aincrad", y'know, after the virtual
 Now I need to watch Sword Art Online...
 
 I've rambled quite a bit in this introduction. Hope you didn't mind. Although, I doubt anyone will actually read this to the end. If you have, thanks!
-You inspire me to continue what I do :)
-
-...that's a lie. I do this for my own selfish gain >:)
-
-Anyways, this is getting too long. I'm now going to say bye in as many languages as possible. This will be updated.
-
-Bye!
-Da bo!
-Doei!
-Sayonara!
-Tschüss!
-Au revoir!
-Paçim!
 ```
