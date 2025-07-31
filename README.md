@@ -10,7 +10,7 @@ xavvvv@oasis:~ $ cat readme.txt
 Hey there!
 I'm xavvvv, a hobbyist software dev from Wales who has a habit of aiming high and hitting low.
 
-I enjoy things that other humans enjoy, such as Minecraft modding, Animal Crossing: GameCube and travelling to distant planets in my spaceship :)
+I enjoy things that other humans enjoy, such as Minecraft modding, Animal Crossing: GameCube and Geometry Dash :)
 
 I like to start a lot of projects, however I unfortunately rarely finish them...
 
@@ -23,14 +23,10 @@ No, I don't care that you use Arch. Why would I?
 
 I suppose I'll just leave an empty space here for my future achievements...
 
-- null (or None for you Pythonistas)
 - null
 - null
 - null
-
-Oh, also! I'll be pretty impressed if you get the reference from the MOTD (and the hostname). It's from one of my favourite novels :)
-I was originally going to name this machine "aincrad", y'know, after the virtual world from Sword Art Online. Then I realized I've never watched Sword Art Online.
-Now I need to watch Sword Art Online...
+- null
 
 I've rambled quite a bit in this introduction. Hope you didn't mind. Although, I doubt anyone will actually read this to the end. If you have, thanks!
 ```
