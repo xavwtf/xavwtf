@@ -14,10 +14,10 @@ I enjoy things that other humans enjoy, such as Minecraft modding, Animal Crossi
 
 I like to start a lot of projects, however I unfortunately rarely finish them...
 
-I appreciate PRs on any of my repos. In fact, I'll go out of my way to thank you if you submit a PR.
+I appreciate PRs on any of my repos, feel free to judge and/or nuke my bad code :)
 
 Though I have themed my README around Linux, I actually use Windows for day to day and programming. There's a couple occasions where I use Linux,
-but other than that I like to stray away from it.
+but other than that I like to stay away from it.
 
 No, I don't care that you use Arch. Why would I?
 
