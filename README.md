@@ -10,23 +10,15 @@ xavvvv@oasis:~ $ cat readme.txt
 Hey there!
 I'm xavvvv, a hobbyist software dev from Wales who has a habit of aiming high and hitting low.
 
-I enjoy things that other humans enjoy, such as Minecraft modding, Animal Crossing: GameCube and Geometry Dash :)
-
 I like to start a lot of projects, however I unfortunately rarely finish them...
 
 I appreciate PRs on any of my repos, feel free to judge and/or nuke my bad code :)
 
-Though I have themed my README around Linux, I actually use Windows for day to day and programming. There's a couple occasions where I use Linux,
-but other than that I like to stay away from it.
+Though I have themed my README around Linux, I actually use Windows for day to day and programming.
+There's a couple occasions where I use Linux, such as on my homelab, but other than that I like to stay away from it.
 
-No, I don't care that you use Arch. Why would I?
-
-I suppose I'll just leave an empty space here for my future achievements...
-
-- null
-- null
-- null
-- null
-
-I've rambled quite a bit in this introduction. Hope you didn't mind. Although, I doubt anyone will actually read this to the end. If you have, thanks!
+My main projects I'm working on right now are:
+- gb2040, a handheld Game Boy (DMG) emulator based on the Raspberry Pi Pico 2. Yes, I know the name is misleading but it's too late to change it now...
+  |-> gb2040-emu, a Game Boy (DMG) emulator written in C++, designed to run on both desktop and Raspberry Pi Pico (2) systems.
+- Bedrock, a small x86 kernel
 ```
